@@ -1,0 +1,3 @@
+--------------------Number of parameters--------------------
+Number of full model parameters: 34128009
+----- Train at epoch #1
