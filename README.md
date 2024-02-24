@@ -8,7 +8,10 @@ easydict
 numpy  
 tensorboardX>=2.0  
 ## Prepare Datasets
-Download publicly available datasets from following links: [Volleyball dataset](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) and NBA dataset  
+### Volleyball dataset
+Download Volleyball dataset from: [Volleyball dataset](https://drive.google.com/file/d/1DaUE3ODT_H5mBFi8JzOVBNzVldxfbPbX/view?usp=sharing).
+### NBA dataset  
+Due to the copyright restriction, this dataset is available upon [request](https://ruiyan1995.github.io/SAM.html).
 ## Train
 ### Volleyball dataset
 bash train_volleyball.sh
