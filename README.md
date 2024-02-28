@@ -22,3 +22,5 @@ bash train_nba.sh
 bash validate_volleyball.sh
 ### NBA dataset
 bash validate_nba.sh
+## Reference
+Our code is based on the open-source project of [DFWSGAR](https://github.com/dk-kim/DFWSGAR).
